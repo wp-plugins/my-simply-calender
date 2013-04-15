@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: My Simply Calender
-Plugin URI: http://www.adityasubawa.com/blog/60/install-my-simply-calender-on-your-wordpress.html
+Plugin URI: http://www.adityasubawa.com/blog/post/60/install-my-simply-calender-on-your-wordpress.html
 Description: Display Simply Calender for WordPress.
-Version: 1.1
+Version: 1.2
 Author: Aditya Subawa
 Author URI: http://www.adityasubawa.com
 */

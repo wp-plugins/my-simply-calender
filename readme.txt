@@ -5,7 +5,7 @@ Donate link: http://www.adityasubawa.com
 Tags: calender, simple calender, simply calender
 Requires at least: 3.2
 Tested up to: 3.5.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 very simple and basic calender for wordpress site. easy to install and no configuration at all. 
 
@@ -40,6 +40,10 @@ Red letters means a holiday or rather was Sunday. to edit, open the file wp-calm
 Fix style on frontpage
 
 = 1.1 =
+
+fix help URL
+
+= 1.2 =
 
 Plug-in is now compatible upto wordpress version 3.5.1
 
